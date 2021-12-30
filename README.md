@@ -3,4 +3,4 @@
  Program çalışmaya başladığı anda butondan veri okuması sürekli gerçekleşmektedir ve console da Veri okuması 0 yazmakta olup butona basıldığında Veri okuması 1 olmaktadır.
  Ayrıca butona basıldığında butona basıldığına dair MessageBox açılmaktadır.
 
- .fzz uzantılı dosyayı Fritzing uygulaması ile açarak devre şemasını, şematik görüntüsünü ve pcb tasrımını görebilirsiniz.
+ .fzz uzantılı dosyayı Fritzing programı ile açarak devre şemasını, şematik görüntüsünü ve pcb tasrımını görebilirsiniz veya .png uzantılı dosya ile sadece devre şemasına bakabilirsiniz.
